@@ -3,7 +3,7 @@
   "name": "AI Opportunity Finder",
   "nameDe": "KI-Chancenfinder",
   "description": "Prioritize AI opportunities using evidence, readiness and risk.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "appId": "org.blockconsult.aiopportunityfinder",
   "publicPath": "/tools/ai-opportunity-finder",
   "repository": "https://github.com/blockconsult-org/ai-opportunity-finder",

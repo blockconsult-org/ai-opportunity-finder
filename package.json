@@ -1,6 +1,6 @@
 {
   "name": "@blockconsult/ai-opportunity-finder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Prioritize AI opportunities using evidence, readiness and risk.",
   "author": "Block Consult GmbH",
